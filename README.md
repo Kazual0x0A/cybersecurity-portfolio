@@ -18,12 +18,18 @@ One principle I've carried with me from my military experience is:
 
 NCL reinforced the importance of hands-on practice and continuing education to maintain proficiency. Cybersecurity is a perishable skill, and I still have a lot to learn.
 
+
 ## NCL Fall 2026 Competition Results
 
 ### Individual Game
-
-* Official NCL score report pending release. A public link to my results will be added when available.
+- **Placement:** 528th of 5,961 participants (92nd percentile)
+- **Score:** 2,205 / 3,000 points
+- **Accuracy:** 95.6%
+- [Official NCL Scouting Report](https://cyberskyline.com/report/AK1CUA68WPRC)
 
 ### Team Game
-
-* Official NCL score report pending release. A public link to our team results will be added when available.
+- **Team:** SANS.edu Skill Issue Detected
+- **Placement:** 179th of 3,034 teams (95th percentile)
+- **Score:** 2,615 / 3,000 points
+- **Accuracy:** 81.2%
+- [Official NCL Scouting Report](https://cyberskyline.com/report/BUTPJ1RHE201)
